@@ -19,7 +19,7 @@ Thank you for your interest in contributing!
 - Write clear, concise commit messages.
 
 ## Reporting Issues
-- Check if the issue is already reported in the [Issues](../issues).
+- Check if the issue is already reported in the [Issues](../../issues).
 - Provide a clear description, steps to reproduce, expected vs actual behavior, and screenshots if relevant.
 
 ## Pull Requests
